@@ -1,0 +1,181 @@
+
+body {
+	
+	 background: white;
+  font-family: "Quicksand", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.8;
+  color: rgba(0, 0, 0, 0.7); }
+  
+  
+.table{
+	
+/*padding-top: 3em;
+  padding-bottom: 40px;
+  float: left;
+  width: 300px;
+  position: fixed;
+  overflow-y: scroll;
+  z-index: 1001;
+  background: #f2f3f7;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;	*/
+  
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background:#EAECEE ;
+  overflow-x: hidden;
+  padding-top: 16px;
+padding-left:10px;
+}
+
+
+.table a{
+	
+	
+	color:black;
+	
+}
+
+.table a:hover{
+	
+	color: #99A3A4;
+}
+
+
+#menu{
+	margin-left:20px;
+	background-size: cover;
+
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 50%;
+  height:100px;
+  width:100px;
+}
+
+#myMenu{
+	
+	font-size: 20x;
+	color:#808B96 ;
+}
+
+
+.icon{
+	
+	padding:10px;
+}
+
+
+
+.content{
+	
+	text-align: justify;
+	margin-left:10px;
+	
+	 width: calc(100% - 300px);
+  float: right;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s; 
+}
+
+#socialMenu{
+	
+	font-size: 25px;
+    text-align: center;
+    margin-bottom:-5px;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 0 20px;
+    width: 100%;
+	
+}
+
+.cell{
+	margin-left:20px;
+  height:350px;
+  width:450px;
+  background:#F0F3F4 ;
+  padding:10px;
+}
+
+
+.img{
+	border-radius:10px;
+	height:100px;
+	width:100px;
+}
+
+#learnMore a{
+	
+	border-radius:10px;
+	background:#3498DB;
+	margin-left:300px;
+	border: none;
+    
+	color:white;
+	font-size: 20px;
+	height:100px;
+}
+
+
+
+#learnMore :hover{
+	background-color: #28B463 ;
+	
+    
+}
+
+.cell1{
+	padding:10px;
+   height:350px;
+  width:450px;
+  background:#F0F3F4 ;
+  margin-left:520px;
+  margin-top:-370px;
+	
+}
+
+
+.blog{
+	margin-top:20px;
+	margin-left:20px;
+  height:350px;
+  width:450px;
+  background:#F0F3F4 ;
+  padding:10px;
+}
+
+
+
+
+
+
+
+
+
+#pageHeading{
+	
+	text-align: center;
+	color:green;
+}
+
+.dot a:hover{
+	
+	
+	color:red;
+}
+.time{
+	border-radius:20px;
+	 background:#F0F3F4 ;
+	 padding:10px;
+	 font-size:15px;
+}
+
+
