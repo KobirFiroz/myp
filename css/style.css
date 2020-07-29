@@ -100,7 +100,10 @@ figure {
 #colorlib-page {
   width: 100%;
   overflow: hidden;
-  position: relative; }
+  position: relative;
+margin-left:-50px;  
+margin-right:10px;
+}
 
 #colorlib-aside {
   padding-top: 3em;

@@ -189,7 +189,7 @@ padding-left:10px;
 }
 .firoz{
 	
-	
+	margin-top:10px;
 	margin-left:400px;
 	color:black;
 	text-align: justify;
@@ -235,5 +235,225 @@ padding-left:10px;
 	height:100px;
 	width:100px;
 }
+
+.appsimg{
+	
+	float: left;
+	height:200px;
+	width:200px;
+}
+
+.colorlib-blog{
+	
+	
+}
+
+
+.technology{
+	
+	padding:5px;
+	background:#95A5A6;
+	border-radius:20px;
+}
+
+/*#item {
+	
+	height:200px;
+	width:200px;
+	margin-right:500px;
+	
+}*/
+
+
+
+#item {
+	
+	height:400px;
+	width:200px;
+	float:left;
+	padding:10px;
+}
+
+#item2{
+	height:400px;
+	width:200px;
+	float:left;
+	margin-left:50px;
+	padding:10px;
+}
+
+#item3{
+	height:400px;
+	width:200px;
+	margin-left:50px;
+	float:left;
+	padding:10px;
+}
+
+#item4 {
+	
+	height:400px;
+	width:200px;
+	float:left;
+	
+	margin-top:10px;
+}
+
+#item5{
+	height:300px;
+	width:200px;
+	float:left;
+	margin-left:50px;
+	
+	margin-top:10px;
+}
+
+#item6{
+	height:400px;
+	width:200px;
+	margin-left:50px;
+	float:left;
+
+	margin-top:10px;
+}
+
+
+#item9{
+	height:300px;
+	width:200px;
+	margin-left:50px;
+	float:left;
+
+	margin-top:10px;
+}
+
+.house{
+	height:300px;
+	width:200px;
+	
+}
+
+.house1{
+	
+	height:300px;
+	width:200px;
+	
+}
+
+
+
+.house2{
+	
+	height:300px;
+	width:200px;
+	
+}
+.house4{
+	height:300px;
+	width:200px;
+	margin-top:100px;
+}
+
+.house5{
+	
+	height:300px;
+	width:200px;
+	margin-top:100px;
+}
+
+
+
+.house6{
+	
+	height:300px;
+	width:200px;
+	margin-top:100px;
+}
+
+
+#item7 {
+	
+	height:400px;
+	width:200px;
+	float:left;
+	margin-left:50px;
+	margin-top:20px;
+}
+
+.house7{
+	height:300px;
+	width:200px;
+	margin-top:100px;
+	
+}
+
+
+#item8{
+	height:400px;
+	width:200px;
+	float:left;
+	margin-left:50px;
+	margin-top:20px;
+}
+
+.house8{
+	
+	height:300px;
+	width:200px;
+	margin-top:100px;
+}
+
+
+
+
+
+.house9{
+	
+	height:300px;
+	width:200px;
+	margin-top:100px;
+}
+
+
+#item10 {
+	
+	height:400px;
+	width:200px;
+	float:left;
+	margin-top:20px;
+	
+	
+	
+}
+
+.house10{
+	height:300px;
+	width:200px;
+	margin-top:100px;
+}
+
+
+#item11 {
+	
+	height:400px;
+	width:200px;
+	float:left;
+	margin-left:50px;
+	margin-top:40px;
+}
+
+.house11{
+	height:200px;
+	width:200px;
+	margin-top:100px;
+	
+}
+
+
+
+
+
+
+
 
 
